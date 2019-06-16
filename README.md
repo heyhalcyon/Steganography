@@ -10,8 +10,8 @@ pip3 install -r requirements.txt
 
 To encode and decode the images, change the picture locations below to the desired picure you want:
 ```
-img1_loc = "optimization-ii-project-3/coast/arnat59.jpg"
-img2_loc = "optimization-ii-project-3/coast/bea20.jpg"
+img1_loc = "optimization-ii-project-3/arnat59.jpg"
+img2_loc = "optimization-ii-project-3/bea20.jpg"
 encode_loc = "output/output.png"
 decode_loc = "output/output2.png"
 ```
