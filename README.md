@@ -8,7 +8,7 @@ First, install the requirments:
 pip3 install -r requirements.txt
 ```
 
-LSB method are written in steg_lsb.ipynb
+LSB method are written in steg_lsb.ipynb  
 To encode and decode the images, change the picture locations below to the desired picure you want:
 ```
 img1_loc = "optimization-ii-project-3/arnat59.jpg"
